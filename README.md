@@ -12,4 +12,4 @@ $ dollar sign
 ) close bracket
   # Link
   br
-  [Github pgaes](https://github.com/Alexbhim/Bembow-Bimkuteyi-Notes/new/main?readme=1)
+  [Github pages](https://github.com/Alexbhim/Bembow-Bimkuteyi-Notes/new/main?readme=1)
