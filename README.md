@@ -7,7 +7,7 @@ $ dollar sign
 % percentage
 ^ exponent
 & and 
-* asterix
+*asterix
 ( open bracket
 ) close bracket
   # Link
