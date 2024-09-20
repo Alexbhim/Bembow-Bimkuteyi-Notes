@@ -2,7 +2,7 @@
 # Number row Characters
 ! Exclamation mark
 @ at sign
-# Hash tag
+#Hash tag
 $ dollar sign
 % percentage
 ^ exponent
